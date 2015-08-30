@@ -29,14 +29,14 @@ import java.io.FileOutputStream;
 
 public class GL2JNIActivity extends Activity {
 
-//    GL2JNIView mView;
+    GL2JNIView mView;
     PixelBuffer pixelBuffer;
 
     @Override
     protected void onCreate(Bundle icicle) {
         super.onCreate(icicle);
-//        mView = new GL2JNIView(getApplication());
-//        setContentView(mView);
+        mView = new GL2JNIView(getApplication());
+        setContentView(mView);
 
         new Thread(new Runnable() {
             @Override
@@ -60,7 +60,7 @@ public class GL2JNIActivity extends Activity {
     @Override
     protected void onPause() {
         super.onPause();
-//        mView.onPause();
+        mView.onPause();
     }
 
     @Override
@@ -74,6 +74,6 @@ public class GL2JNIActivity extends Activity {
     @Override
     protected void onResume() {
         super.onResume();
-//        mView.onResume();
+        mView.onResume();
     }
 }
