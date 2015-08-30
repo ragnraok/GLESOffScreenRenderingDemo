@@ -1,0 +1,4 @@
+See file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/compileMipsDebugAllGl2jniSharedLibraryGl2jniMainCpp/output.txt for all output for compileMipsDebugAllGl2jniSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+
+Finished compileMipsDebugAllGl2jniSharedLibraryGl2jniMainCpp, see full log file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/compileMipsDebugAllGl2jniSharedLibraryGl2jniMainCpp/output.txt.

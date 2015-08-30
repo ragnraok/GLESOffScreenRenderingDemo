@@ -1,0 +1,4 @@
+See file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/compileArm64-v8aDebugAllGl2jniSharedLibraryGl2jniMainCpp/output.txt for all output for compileArm64-v8aDebugAllGl2jniSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+
+Finished compileArm64-v8aDebugAllGl2jniSharedLibraryGl2jniMainCpp, see full log file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/compileArm64-v8aDebugAllGl2jniSharedLibraryGl2jniMainCpp/output.txt.

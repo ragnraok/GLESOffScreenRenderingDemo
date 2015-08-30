@@ -1,0 +1,4 @@
+See file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkMipsDebugAllGl2jniSharedLibrary/output.txt for all output for linkMipsDebugAllGl2jniSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkMipsDebugAllGl2jniSharedLibrary, see full log file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkMipsDebugAllGl2jniSharedLibrary/output.txt.

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ragnarok/Works/Project/GLESOffScreenRenderingDemo/app/src/main/assets"/></dataSet><dataSet config="all"><source path="/Users/ragnarok/Works/Project/GLESOffScreenRenderingDemo/app/src/all/assets"/></dataSet><dataSet config="debug"><source path="/Users/ragnarok/Works/Project/GLESOffScreenRenderingDemo/app/src/debug/assets"/></dataSet><dataSet config="allDebug"><source path="/Users/ragnarok/Works/Project/GLESOffScreenRenderingDemo/app/src/allDebug/assets"/></dataSet></merger>

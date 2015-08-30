@@ -1,0 +1,4 @@
+See file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkArmeabiDebugAllGl2jniSharedLibrary/output.txt for all output for linkArmeabiDebugAllGl2jniSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkArmeabiDebugAllGl2jniSharedLibrary, see full log file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkArmeabiDebugAllGl2jniSharedLibrary/output.txt.

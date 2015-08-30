@@ -1,0 +1,4 @@
+See file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkArm64-v8aDebugAllGl2jniSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllGl2jniSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkArm64-v8aDebugAllGl2jniSharedLibrary, see full log file:///Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/tmp/linkArm64-v8aDebugAllGl2jniSharedLibrary/output.txt.

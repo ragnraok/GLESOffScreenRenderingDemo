@@ -1,0 +1,15 @@
+-shared
+-Wl,-soname,libgl2jni.so
+-o
+/Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/intermediates/binaries/debug/all/obj/mips64/libgl2jni.so
+/Volumes/Ext/Resource/android/android-ndk/hello-gl2/app/build/intermediates/objectFiles/mips64DebugAllGl2jniSharedLibrary/gl2jniMainCpp/b1cj4kbe0yyvhn6hpjvii1gvn/gl_code.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=/Users/ragnarok/android-ndk-r10e/platforms/android-21/arch-mips64
+-Wl,--build-id
+-no-canonical-prefixes
+-llog
+-lGLESv2
+-ljnigraphics
